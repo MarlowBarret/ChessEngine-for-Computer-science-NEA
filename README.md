@@ -1,0 +1,1 @@
+The code is seperated into two modules, chess_main.py handles all display and inputs and chessEngine.py handles all game logic and AI. To adjust the search depth you must go to chess_main.py and adjust the parameter within choose_best_move().
